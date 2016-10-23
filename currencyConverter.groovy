@@ -31,6 +31,7 @@ while (!finished) {
 	  break;
     default: 
 	  println "Sorry, that is not a valid option";
+	  println "Just adding a few lines.";
     }	  
 }
 println "Exiting the program";
